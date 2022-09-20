@@ -1,0 +1,4 @@
+*.log
+error.log
+/dir/
+new_fol/dir
